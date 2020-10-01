@@ -178,12 +178,20 @@ css-line-break@1.0.1:
   dependencies:
     base64-arraybuffer "^0.1.5"
 
-datatables.net-bs4@^1.10.15, datatables.net-bs4@^1.10.19:
+datatables.net-bs4@^1.10.15:
   version "1.10.19"
   resolved "https://registry.yarnpkg.com/datatables.net-bs4/-/datatables.net-bs4-1.10.19.tgz#0608dff22008cf3c7b8a68b1bc702ed255b404fb"
   integrity sha512-pgeP17w4aPR7HIxIwuJghfqXULjdg1K6xMUUKDyCERJRSNNK4MRToFfELtIsluLNN555YBK4Kx8nihX5/ZT1Fw==
   dependencies:
     datatables.net "1.10.19"
+    jquery ">=1.7"
+
+datatables.net-bs4@^1.10.22:
+  version "1.10.22"
+  resolved "https://registry.yarnpkg.com/datatables.net-bs4/-/datatables.net-bs4-1.10.22.tgz#1ba03e5628841b83329069743ec389a56940234b"
+  integrity sha512-si0eOiaKmuURURpXhPRba7b3vCZsVfJK8pfrlM5WtaOaCEBa62DG/S9guMxUBmcAmvEC3FA2CKc/iKya3gb9qg==
+  dependencies:
+    datatables.net "1.10.22"
     jquery ">=1.7"
 
 datatables.net-responsive-bs4@^2.2.3:
@@ -203,10 +211,17 @@ datatables.net-responsive@2.2.3:
     datatables.net "^1.10.15"
     jquery ">=1.7"
 
-datatables.net@1.10.19, datatables.net@^1.10.15, datatables.net@^1.10.19:
+datatables.net@1.10.19, datatables.net@^1.10.15:
   version "1.10.19"
   resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.19.tgz#97a1ed41c85e62d61040603481b59790a172dd1f"
   integrity sha512-+ljXcI6Pj3PTGy5pesp3E5Dr3x3AV45EZe0o1r0gKENN2gafBKXodVnk2ypKwl2tTmivjxbkiqoWnipTefyBTA==
+  dependencies:
+    jquery ">=1.7"
+
+datatables.net@1.10.22, datatables.net@^1.10.22:
+  version "1.10.22"
+  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.22.tgz#975d4ffb1eb40dec5fb772eaf93796ec1a948b55"
+  integrity sha512-ujn8GvkQIBYzYH54XY7OrI0Zb35TKRd9ABYfbnXgBfwTGIFT6UsmXrfHU5Yk+MSDoF0sDu2TB+31V6c+zUZ0Pw==
   dependencies:
     jquery ">=1.7"
 
@@ -255,10 +270,10 @@ fullcalendar@3.9.0:
     jquery "2 - 3"
     moment "^2.20.1"
 
-gantt-elastic@^0.3.6:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/gantt-elastic/-/gantt-elastic-0.3.6.tgz#b9300f9e238a8c55e5fc737fcc4879b4e4379642"
-  integrity sha512-SsmHRy1ckdPeetdvzDwolQ8+1Yt33tPYhJKxh0b5am+INIKnoTodAjzCEzYqBlwZIUDZKdKr0LoJOGQUTTKLwg==
+gantt-elastic@^0.3.8:
+  version "0.3.12"
+  resolved "https://registry.yarnpkg.com/gantt-elastic/-/gantt-elastic-0.3.12.tgz#6303cf88d27617323c292b852e0c8673bc5cb5bb"
+  integrity sha512-wUZHXmvUcYc4R7UF9IdwPzgzeSQDG2vzFpmKGzMeEtpxB0MKqBZFiuW04faspovxcwgVMwsMJj2oJoURR4pGBw==
 
 good-listener@^1.2.2:
   version "1.2.2"
