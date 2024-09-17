@@ -220,10 +220,10 @@ device-uuid@^1.0.4:
   resolved "https://registry.yarnpkg.com/device-uuid/-/device-uuid-1.0.4.tgz#f6973e58f19b92a237aeca7b16a395ae7195a883"
   integrity sha1-9pc+WPGbkqI3rsp7FqOVrnGVqIM=
 
-dompurify@^1.0.3:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-1.0.8.tgz#3fa0d91fde3827d6509d83b43444da56a2796795"
-  integrity sha512-vetRFbN1SXSPfP3ClIiYnxTrXquSqakBEOoB5JESn0SVcSYzpu6ougjakpKnskGctYdlNpwf+riUHSkG7d4XUw==
+dompurify@^2.5.4:
+  version "2.5.6"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.5.6.tgz#8402b501611eaa7fb3786072297fcbe2787f8592"
+  integrity sha512-zUTaUBO8pY4+iJMPE1B9XlO2tXVYIcEA4SNGtvDELzTSCQO7RzH+j7S180BmhmJId78lqGU2z19vgVx2Sxs/PQ==
 
 flag-icon-css@^3.2.1:
   version "3.2.1"
@@ -255,10 +255,10 @@ fullcalendar@3.9.0:
     jquery "2 - 3"
     moment "^2.20.1"
 
-gantt-elastic@^0.3.6:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/gantt-elastic/-/gantt-elastic-0.3.6.tgz#b9300f9e238a8c55e5fc737fcc4879b4e4379642"
-  integrity sha512-SsmHRy1ckdPeetdvzDwolQ8+1Yt33tPYhJKxh0b5am+INIKnoTodAjzCEzYqBlwZIUDZKdKr0LoJOGQUTTKLwg==
+gantt-elastic@^0.3.8:
+  version "0.3.12"
+  resolved "https://registry.yarnpkg.com/gantt-elastic/-/gantt-elastic-0.3.12.tgz#6303cf88d27617323c292b852e0c8673bc5cb5bb"
+  integrity sha512-wUZHXmvUcYc4R7UF9IdwPzgzeSQDG2vzFpmKGzMeEtpxB0MKqBZFiuW04faspovxcwgVMwsMJj2oJoURR4pGBw==
 
 good-listener@^1.2.2:
   version "1.2.2"
